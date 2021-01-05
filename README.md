@@ -1,5 +1,5 @@
 ### Hi there! 👋
-### Welcome to my account¯\_(ツ)_/¯
+### Welcome to my account ¯\_(ツ)_/¯
 
 <!--
 **nishatcse25/nishatcse25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
