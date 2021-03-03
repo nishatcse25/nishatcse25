@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 </h1>
-<h2 align="center"> Welcome to my account ✨</h2>
+<h3 align="center"> Welcome to my account ✨</h3>
 
 <!--
 **nishatcse25/nishatcse25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
