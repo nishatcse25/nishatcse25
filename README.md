@@ -7,8 +7,8 @@
 
 Here are some ideas to get you started:
 
- <h3 align="center">I’m currently working on Web Designing</h3>
- <h3 align="center"> I’m currently learning Python and Backend Development</h3>
+ <h4 align="center">I’m currently working on Web Designing</h4>
+ <h4 align="center"> I’m currently learning Python and Backend Development</h4>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
