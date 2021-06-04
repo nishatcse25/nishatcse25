@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone👋 </h1>
 <h2 align="center"> Welcome to my account ✨</h2>
 <h3 align="center">I’m currently working on Web Designing</h3>
-<h4 align="center"> I’m currently learning Python and Backend Development</h4>
+<!-- <h4 align="center"> I’m currently learning Python and Backend Development</h4> -->
 
 <!--
 **nishatcse25/nishatcse25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
