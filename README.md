@@ -3,7 +3,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello World!, I am
-                <b><a target="_blank" href="https://shahriarshafin.me/">Shahriar Shafin</a></b>
+                <b><a target="_blank" href="https://shahriarshafin.me/">Nishat Shahrin</a></b>
         </samp>
 </h3>
 <br>
